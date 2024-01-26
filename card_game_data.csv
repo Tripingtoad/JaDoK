@@ -1,0 +1,54 @@
+"Card Name","Character Class","Damage Bonus","Attack Type","Special Ability Trigger","Attack Value","Action Point","Damage Points","Sub Class","Cast Ability","Special Ability","Is A Character"
+"Ace of Clubs",Warrior,0,Melee,False,1,1,1,Warrior,"Heavy armor block of 4",,True
+"Ace of Hearts",Warrior,0,Melee,True,1,1,1,Paladin,"Heavy armor block of 4","Warrior that deals preternatural damage and is not destroyed by magic/ranged damage (including unblockable).",True
+"Ace of Diamonds",Warrior,0,Melee,False,1,1,1,Warrior,"Heavy armor block of 4",,True
+"Ace of Spades",Warrior,0,Melee,True,1,1,1,"Death Knight","Heavy armor block of 4","Warrior that destroys any character that used a successful melee attack against it.",True
+"King of Diamonds",Warrior,1,Melee,False,1,1,1,Warlord,"Warrior specific weapon +2 Damage",,True
+"King of Spades",Warrior,0,Melee,False,1,1,1,Warrior,"Warrior specific weapon +2 Damage",,True
+"King of Clubs",Warrior,0,Melee,False,1,1,1,Warrior,"Warrior specific weapon +2 Damage",,True
+"King of Hearts",Warrior,0,Melee,True,1,1,1,"Suicide King","Warrior specific weapon +2 Damage","May be sacrificed to deal ravage melee damage equal to double the bonus weapon damage +1.",True
+"Queen of Clubs",Caster,0,Ranged,False,0,1,1,Witch,"Can be 4 Magical Block or Damage Depending on Sub Class",,True
+"Queen of Diamonds",Healer,0,Ranged,False,0,1,1,Preist,"Can be 4 Magical Block or Damage Depending on Sub Class",,True
+"Queen of Hearts",Healer,0,Ranged,True,0,1,1,Preist,"Can be 4 Magical Block or Damage Depending on Sub Class","Healer that may use magic as an instant block at no cost in action points.",True
+"Queen of Spades",Caster,1,Ranged,True,0,1,1,Witch,"Can be 4 Magical Block or Damage Depending on Sub Class",,True
+"Jacks of Spades",Rangers,0,Ranged,True,0,2,1,Warrior,"Ammo dealing 4 ranged damage","Rangers are both warriors and marksman classes at all times.  They deal unblockable damage and may not have heavy armor.",True
+"Jacks of Hearts",Rangers,0,Ranged,True,0,2,1,Warrior,"Ammo dealing 4 ranged damage","Rangers are both warriors and marksman classes at all times.  They deal unblockable damage and may not have heavy armor.",True
+"Jacks of Clubs",Marksman,0,Ranged,False,0,1,1,Marksman,"Ammo dealing 4 ranged damage",,True
+"Jacks of Diamonds",Marksman,0,Ranged,False,0,1,1,Marksman,"Ammo dealing 4 ranged damage",,True
+"Ten of Clubs",,,,False,,,1,Magic,"Target Player Draws 2 Cards",,False
+"Ten of Spades",,,,False,,,1,Magic,"Target Player Draws 2 Cards",,False
+"Ten of Hearts",,,,False,,,1,Magic,"Target Player Draws 2 Cards",,False
+"Ten of Diamonds",,,,False,,,1,Magic,"Target Player Draws 2 Cards",,False
+"Nine of Hearts",,,,False,,,1,Magic,"Can be 2 Magical Block or Damage Depending on Sub Class",,False
+"Nine of Clubs",,,,False,,,1,Magic,"Can be 2 Magical Block or Damage Depending on Sub Class",,False
+"Nine of Spades",,,,False,,,1,Magic,"Can be 2 Magical Block or Damage Depending on Sub Class",,False
+"Nine of Diamonds",,,,False,,,1,Magic,"Can be 2 Magical Block or Damage Depending on Sub Class",,False
+"Eight of Hearts",,,,False,,,1,Magic,"Can be 2 Magical Block or Damage Depending on Sub Class",,False
+"Eight of Clubs",,,,False,,,1,Magic,"Can be 2 Magical Block or Damage Depending on Sub Class",,False
+"Eight of Spades",,,,False,,,1,Magic,"Can be 2 Magical Block or Damage Depending on Sub Class",,False
+"Eight of Diamonds",,,,False,,,1,Magic,"Can be 2 Magical Block or Damage Depending on Sub Class",,False
+"Seven of Hearts",,,,True,,,"1 After being turned face up",Trap,"Placed Facedown in the players wall unless the wall is at max and then its discarded","When a face down trap is dealt melee damage it destroys that character, this action cannot be blocked.  When a face down trap is dealt ranged damage it destroys that character unless an instant block is used.  After the trap effect resolves place it face up in the wall zone. It now does not destroy characters that damage it and may be destroyed by one damage from other attacks.",False
+"Seven of Clubs",,,,True,,,"1 After being turned face up",Trap,"Placed Facedown in the players wall unless the wall is at max and then its discarded","When a face down trap is dealt melee damage it destroys that character, this action cannot be blocked.  When a face down trap is dealt ranged damage it destroys that character unless an instant block is used.  After the trap effect resolves place it face up in the wall zone. It now does not destroy characters that damage it and may be destroyed by one damage from other attacks.",False
+"Seven of Spades",,,,True,,,"1 After being turned face up",Trap,"Placed Facedown in the players wall unless the wall is at max and then its discarded","When a face down trap is dealt melee damage it destroys that character, this action cannot be blocked.  When a face down trap is dealt ranged damage it destroys that character unless an instant block is used.  After the trap effect resolves place it face up in the wall zone. It now does not destroy characters that damage it and may be destroyed by one damage from other attacks.",False
+"Seven of Diamonds",,,,True,,,"1 After being turned face up",Trap,"Placed Facedown in the players wall unless the wall is at max and then its discarded","When a face down trap is dealt melee damage it destroys that character, this action cannot be blocked.  When a face down trap is dealt ranged damage it destroys that character unless an instant block is used.  After the trap effect resolves place it face up in the wall zone. It now does not destroy characters that damage it and may be destroyed by one damage from other attacks.",False
+"Six of Hearts",,,,False,,,1,"Heavy Armor","Can be 2 Armor Block or Damage Depending on Sub Class",,False
+"Six of Clubs",,,,False,,,1,"Heavy Armor","Can be 2 Armor Block or Damage Depending on Sub Class",,False
+"Six of Spades",,,,False,,,1,"Heavy Armor","Can be 2 Armor Block or Damage Depending on Sub Class",,False
+"Six of Diamonds",,,,False,,,1,"Heavy Armor","Can be 2 Armor Block or Damage Depending on Sub Class",,False
+"Five of Hearts",,,,False,,,1,"Lite Armor","Can be 2 Armor Block or Damage Depending on Sub Class",,False
+"Five of Clubs",,,,False,,,1,"Lite Armor","Can be 2 Armor Block or Damage Depending on Sub Class",,False
+"Five of Spades",,,,False,,,1,"Lite Armor","Can be 2 Armor Block or Damage Depending on Sub Class",,False
+"Five of Diamonds",,,,False,,,1,"Lite Armor","Can be 2 Armor Block or Damage Depending on Sub Class",,False
+"Four of Hearts",,,,False,,,1,"Instant block","Can be 2 Magical Block",,False
+"Four of Clubs",,,,False,,,1,"Instant block","Can be 2 Magical Block",,False
+"Four of Spades",,,,False,,,1,"Instant block","Can be 2 Magical Block",,False
+"Four of Diamonds",,,,False,,,1,"Instant block","Can be 2 Magical Block",,False
+"Three of Hearts",,,,False,,,1,Ammo,"Ammo dealing 2 ranged damage",,False
+"Three of Clubs",,,,False,,,1,Ammo,"Ammo dealing 2 ranged damage",,False
+"Three of Spades",,,,False,,,1,Ammo,"Ammo dealing 2 ranged damage",,False
+"Three of Diamonds",,,,False,,,1,Ammo,"Ammo dealing 2 ranged damage",,False
+"Two of Hearts",,,,False,,,1,Ammo,"Ammo dealing 2 ranged damage",,False
+"Two of Clubs",,,,False,,,1,Ammo,"Ammo dealing 2 ranged damage",,False
+"Two of Spades",,,,False,,,1,Ammo,"Ammo dealing 2 ranged damage",,False
+"Two of Diamonds",,,,False,,,1,Ammo,"Ammo dealing 2 ranged damage",,False
+Joker,,,Ranged,True,2,,1,"Uber Damage","Deals unblockable, ravage, preternatural, ranged damage equal to 2 plus the characters' bonus damage for each Action Point off that Character","Deals unblockable, ravage, preternatural, ranged damage equal to 2 plus the characters' bonus damage for each Action Point off that Character",False
